@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\P1_4_1204026\P1_4_1204026\bin\Debug\P1_4_1204026.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\P1_4_1204026\P1_4_1204026\bin\Debug\P1_4_1204026.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\P1_4_1204026\P1_4_1204026\bin\Debug\P1_4_1204026.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\P1_4_1204026\P1_4_1204026\obj\Debug\P1_4_1204026.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\P1_4_1204026\P1_4_1204026\obj\Debug\P1_4_1204026.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\P1_4_1204026\P1_4_1204026\obj\Debug\P1_4_1204026.pdb
